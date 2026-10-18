@@ -1,5 +1,5 @@
 # Dungeon-Runner
-A small 2D roquelike game written in C# with a couple of levels and a few mechanics (as walking, aiming, jumping, climbing, enemies)
+A small 2D roguelike platformer made in Unity (C#), with a few levels and mechanics such as walking, aiming, jumping, climbing and enemies.
 
 
 Level 1:
